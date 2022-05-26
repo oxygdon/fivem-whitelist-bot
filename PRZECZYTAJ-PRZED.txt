@@ -1,0 +1,28 @@
+discord whitelist bot zrobiony przez Oxygdon#0150 we wspołpracy z panem Maciejem :)
+
+bot posiada funkcję:
+- blacklista,
+- embed,
+- losowania,
+- niezdania wl,
+- otwarcia okna wl,
+- losowego pytania,
+- zamkniecia pytania wl,
+- zdania wl,
+- weryfikacji z przyciskami wowowo
+
+bot jest zrobiony przeze mnie, jest do dobrowolnego użytku. Publikuje go, ponieważ chcę, aby
+bot wyręczył innych w obowiązkach xD
+
+do bota aktualizacje może będą, może nie. Zobaczy się
+
+Linijki do edycji:
+index.js - 31 linijka, 51 linijka, 61 linijka
+
+config.json - wszystko ustawcie pod siebie
+
+events>message.js - 5 linijka
+
+wszystkie komendy/funkcję są opisane, dla ludzi którzy nie mają pojęcia jak się posługiwać botem :)
+
+Gdy będę miał więcej czasu postaram się porobić więcej aktualizacji do bota, jak na razie jest co jest

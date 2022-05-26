@@ -1,0 +1,27 @@
+{
+    "losuj": {
+        "id_poczekalni" : "ID KANALU GLOSOWEGO POCZEKALNIA WL",
+        "id_kanalu_dla_komend" : "ID KANALU GDZIE MOZNA UZYWAC KOMENDE"
+    },
+    "zamknij": {
+        "id_kanalu_dla_komendy" : "ID KANALU GDZIE MOZNA UZYWAC KOMENDE"
+    },
+    "otworz": {
+        "id_kanalu_dla_komends" : "ID KANALU GDZIE MOZNA UZYWAC KOMENDE"
+    },
+    "wl": {
+        "id_kanalu_dla_komenda" : "ID KANALU GDZIE MOZNA UZYWAC KOMENDE",
+        "ranga" : "RANGA ZDANA WL/WHITELIST"
+    },
+    "niezdane": {
+        "id_kanalu_dla_komendaa" : "ID KANALU GDZIE MOZNA UZYWAC KOMENDE",
+        "ranga" : "RANGA NIEZDANA WL"
+    },
+    "pytanie": {
+        "id_kanalu_dla_komendanta" : "ID KANALU GDZIE MOZNA UZYWAC KOMENDE"
+    },
+    "blacklista": {
+        "id_kanalu_dla_komendusia" : "ID KANALU GDZIE MOZNA UZYWAC KOMENDE",
+        "ranga" : "RANGA BLACKLISTY"
+    }
+}

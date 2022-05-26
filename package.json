@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "discord-button-pages": "^1.1.9",
+    "discord-buttons": "^4.0.0",
+    "discord-buttons-pages": "^1.1.7",
+    "discord-embeds-pages-buttons": "^1.3.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "discordjs-button-pagination": "^3.0.1",
+    "moment": "^2.29.3",
+    "mongoose": "^6.3.4",
+    "quick.db": "^7.1.3",
+    "random": "^3.0.6",
+    "rebuild": "^0.1.2",
+    "reconlx": "^2.5.6",
+    "sourcebin_js": "^0.0.3-ignore"
+  }
+}
