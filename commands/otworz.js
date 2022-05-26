@@ -17,7 +17,7 @@ module.exports = {
         let przycisk = new disbut.MessageButton() // przycisk
         .setStyle('url') // typ przycisku. url = przycisk link
 		.setLabel(' 📋 Regulamin') // tytuł przycisku
-		.setURL('https://docs.google.com/document/d/1BQTy_6RJGJe6EuwhtYB31cdisH4ab0rKiPwCpKBQI68/edit') // link przekierowyjący
+		.setURL('https://docs.google.com/document') // link przekierowyjący
 		.setDisabled(false); // wyłączenie przycisku z użytku
 
         let otwarte = new MessageEmbed()  // embed 
