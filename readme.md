@@ -23,6 +23,12 @@ bot posiada również logi w cmd
 
 ![](https://imgur.com/KqrAtRu.png)
 
+### Jak odpalić?
+zainstaluj [Noda](https://nodejs.org/en/blog/release/v16.15.0/) 
+Następnie skonfiguruj bota pod siebie, co gdzie i jak masz napisane w PRZECZYTAJ-PRZED.txt 
+po konfiguracji, odpal cmd i wpisz node .
+Gotowe!
+
 ### Kontakt Support
 
 ## Oxygdon#0150
