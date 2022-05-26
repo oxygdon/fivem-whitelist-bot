@@ -11,6 +11,7 @@ bot został zrobiony przeze mnie we współpracy z panem Maciejem. Bot nie posia
 ![](https://imgur.com/cmlqaLM.png)
 ![](https://imgur.com/sSYeU07.png)
 ![](https://imgur.com/6nCuqGF.png)
+![](https://imgur.com/L3dzuhc.png)
 
 ### Bot równiez wysyła wiadomości na dm
 
